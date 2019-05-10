@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "reveal.js/package.json",
+        "reveal.js/plugin/multiplex/package.json"
+      ]
+    }
+  }
+}
